@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧬 Skin Lesion Classifier
+# Skin Lesion Classifier
 ### Part of the **MedicalGPT** Family of Models
 
 ![MedicalGPT](https://img.shields.io/badge/MedicalGPT-Family-red?style=for-the-badge&logo=health&logoColor=white)
